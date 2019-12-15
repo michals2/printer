@@ -1,2 +1,0 @@
-# printer
-Created with CodeSandbox
