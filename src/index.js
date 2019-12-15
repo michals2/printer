@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 const Printer = () => {
+  console.log("test");
   return (
     <div className="App">
       <h1>Hello CodeSandbox</h1>
